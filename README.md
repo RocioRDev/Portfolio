@@ -39,7 +39,7 @@ git clone
 
 ## Uso
 ```
-Abrir el archivo index.html en el navegador de preferencia y navegar por el portfolio
+Abrir el archivo portfolio.html en el navegador de preferencia y navegar por el portfolio
 
 ```
 
